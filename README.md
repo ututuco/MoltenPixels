@@ -8,13 +8,13 @@ The main idea of the project is to reduce the complexity of rendering 2D Images 
 
 First Release 0.1
 
--Cross-platform project template, app management, core event apps, and OpenGL libraries
--TMolpixImage (Image component for drawing images)
-   -Spin
-   -Scale
--TMolpixImgList (TMolpixImages Image List)
--Basic handling of PNG transparency
--Sample project
+>Cross-platform project template, app management, core event apps, and OpenGL libraries
+>TMolpixImage (Image component for drawing images)
+>>Spin
+>>Scale
+>TMolpixImgList (TMolpixImages Image List)
+>Basic handling of PNG transparency
+>Sample project
 
 
 To-Do
