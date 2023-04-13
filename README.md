@@ -25,3 +25,9 @@ To-Do
 Fixes and Improovements
 
 -Blending Png images to allow semi-transparent PNGs
+
+
+#How to Use it
+
+Clone this repository
+...
