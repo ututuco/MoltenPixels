@@ -7,7 +7,7 @@ MoltenPixels is a Delphi Project Application template for easy management of Ope
 
 This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own App model that creates a native window with an OpenGL viewport.
 
-The main idea of the project is to reduce the complexity of rendering 2D Images and Shapes with High Performance, High FPS and Full Cross Platform (Windows, Linux, MacOS, iOS and Android), by implementing OpenGL and OpenGLES primitives on each platform.
+The main idea of the project is to reduce the complexity of rendering 2D Images and Shapes with High Performance, High FPS and Full Cross Platform (Windows, Linux, MacOS, iOS and Android), by implementing OpenGL and OpenGLES primitives on each platform. Also you can use a regular Firemoneky Form to create some UI interfaces including standard Firemonkey controls and Skia controls.
 
 >special credits to https://github.com/neslib/DelphiLearnOpenGL.git where i start to learn openGl and cross platform for Delphi great reference
 
@@ -47,6 +47,10 @@ Clone this repository:
 You can change the file https://github.com/ututuco/MoltenPixels/blob/main/src/Projects/MyProject1/Controller.pas to learn how its works!
 
 You can add assets loading from file (methods) or just adding to a zipfile into .res project file
+
+If you want to help me.. please write an email to ututuco.apps@gmail.com
+
+Thanks!
 
 
 
