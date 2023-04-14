@@ -30,7 +30,7 @@ The main idea of the project is to reduce the complexity of rendering 2D Images 
 * SetSize of TMolpixImage based on user-friendly coordinates (height and width in pixels)
 
 
-## Fixes and Improovements
+## Fixes and Improovements 
 
 * Blending Png images to allow semi-transparent PNGs
 
