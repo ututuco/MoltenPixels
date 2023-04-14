@@ -34,7 +34,8 @@ This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own A
 
 ## How to Use it
 
-Clone this repository
+Clone this repository:
+>>git clone https://github.com/ututuco/MoltenPixels.git
 
 You can change the file https://github.com/ututuco/MoltenPixels/blob/main/src/Projects/MyProject1/Controller.pas to learn how its works!
 
