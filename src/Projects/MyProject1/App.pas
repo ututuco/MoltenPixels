@@ -306,7 +306,7 @@ end;
 
 procedure TMolpixImage.SetRotationAngle(const Value: Double);
 begin
-  FRotationAngle := Value;
+  FRotationAngle := value;
 end;
 
 { TTextureManager }

@@ -1,33 +1,35 @@
 # MoltenPixels
 
-Delphi project application template for easy management of OpenGL and OpenGLES capabilities.
+MoltenPixels is a Delphi Project Application template for easy management of OpenGL and OpenGLES capabilities.
 
-This "app template" is not a VCL or Firemonkey app, it manages your own app that creates a native window with an OpenGL viewport.
+This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own App model that creates a native window with an OpenGL viewport.
 
-The main idea of the project is to reduce the complexity of rendering 2D Images and Shapes with High Performance, High FPS and Full Cross Platform (Windows, Linux, MacOS, iOS and Android), by implementing OpenGL and OpenGLES primitives on each platform.
+>The main idea of the project is to reduce the complexity of rendering 2D Images and Shapes with High Performance, High FPS and Full Cross Platform (Windows, Linux, MacOS, iOS and Android), by implementing OpenGL and OpenGLES primitives on each platform.
 
-First Release 0.1
+## First Release 0.1
 
->Cross-platform project template, app management, core event apps, and OpenGL libraries
->TMolpixImage (Image component for drawing images)
->>Spin
->>Scale
->TMolpixImgList (TMolpixImages Image List)
->Basic handling of PNG transparency
->Sample project
-
-
-To-Do
-
--TMolpixForma
--SetSize of TMolpixImges based on user-friendly coordinates (height and width in pixels)
-
-Fixes and Improovements
-
--Blending Png images to allow semi-transparent PNGs
+* Cross-platform project template, app management, core event apps, and OpenGL libraries
+- TMolpixImage (Image component for drawing images)
+    - Rotate Image
+    - Scale Image
+    - Basic handling of PNG transparency
+- TMolpixImgList (TMolpixImages Image List)
+- Sample project
 
 
-#How to Use it
+## To-Do
+
+* TMolpixShape
+* TMolpixLabel
+* SetSize of TMolpixImage based on user-friendly coordinates (height and width in pixels)
+
+
+## Fixes and Improovements
+
+* Blending Png images to allow semi-transparent PNGs
+
+
+## How to Use it
 
 Clone this repository
-...
+
