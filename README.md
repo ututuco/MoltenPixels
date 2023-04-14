@@ -41,5 +41,7 @@ You can change the file https://github.com/ututuco/MoltenPixels/blob/main/src/Pr
 
 You can add assets loading from file (methods) or just adding to a zipfile into .res project file
 
+>special credits to https://github.com/neslib/DelphiLearnOpenGL.git where i start to learn openGl and cross platform for Delphi great reference
+
 
 
