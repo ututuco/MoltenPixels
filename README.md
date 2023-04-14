@@ -36,3 +36,9 @@ This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own A
 
 Clone this repository
 
+You can change the file https://github.com/ututuco/MoltenPixels/blob/main/src/Projects/MyProject1/Controller.pas to learn how its works!
+
+You can add assets loading from file (methods) or just adding to a zipfile into .res project file
+
+
+
