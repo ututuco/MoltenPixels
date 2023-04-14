@@ -21,13 +21,17 @@ The main idea of the project is to reduce the complexity of rendering 2D Images 
     - Basic handling of PNG transparency
 - TMolpixImgList (TMolpixImages Image List)
 - Sample project
+- Firemonkey Multi-Device Form for Windows and MacOS
 
 
 ## To-Do
-
+Basic Controls
 * TMolpixShape
 * TMolpixLabel
+* TMolpixButton
 * SetSize of TMolpixImage based on user-friendly coordinates (height and width in pixels)
+* Firemonkey Multi-Device Form for Android fix error ([DCC Error]... error: c:\program files (x86)\embarcadero\studio\21.0\lib\Android\debug\Androidapi.AppGlue.o: multiple definition of 'ANativeActivity_onCreate')... can Coexists with Firemonkey Forms? 
+* Test on iOS
 
 
 ## Fixes and Improovements 
