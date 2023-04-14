@@ -9,7 +9,7 @@ This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own A
 
 The main idea of the project is to reduce the complexity of rendering 2D Images and Shapes with High Performance, High FPS and Full Cross Platform (Windows, Linux, MacOS, iOS and Android), by implementing OpenGL and OpenGLES primitives on each platform.
 
->special credits to https://github.com/neslib/DelphiLearnOpenGL.git where i start to learn openGl and cross platform for Delphi great reference
+>special credits to <a href="https://github.com/neslib/DelphiLearnOpenGL.git">nedlib/a>  where i start to learn openGl and cross platform for Delphi great reference
 
 
 ## First Release 0.1
