@@ -1,7 +1,8 @@
 # MoltenPixels
 # Simple 2D Graphics Cross Platform Fast Library for Delphi
 # Win32 Win64 MacOS iOS Android
-# Deploy on all Platforms!
+# Deploy on all Platforms! 
+(i don't forgot Linux, but we need to have suppot on community edition to add it to the list)
 
 MoltenPixels is a Delphi Project Application template for easy management of OpenGL and OpenGLES capabilities.
 
