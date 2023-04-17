@@ -4,7 +4,8 @@
 # Deploy on all Platforms! 
 (i don't forgot Linux, but we need to have suppot on community edition to add it to the list)
 
-MoltenPixels is a Delphi Project Application template for easy management of OpenGL and OpenGLES capabilities.
+
+<B>MoltenPixels</b> is a Delphi Project Application template for easy management of OpenGL and OpenGLES capabilities.
 
 This "App template" <b> is not a VCL or Firemonkey app</b>, it manages his own App model that creates a native window with an OpenGL viewport.
 
