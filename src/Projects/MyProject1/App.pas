@@ -211,23 +211,12 @@ begin
     glClear(GL_COLOR_BUFFER_BIT or GL_DEPTH_BUFFER_BIT);
     FVertexArray.BeginRender;
     for var img:TMolpixImage in Images do img.draw;
-    Controller.doUpdate;
-{   for var img:TMolpixImage in Images do
+    if MilliSecondOf(now-oldt)>5 then
     begin
-
-      img.Scale:=img.Scale+0.003;
-      img.RotationAngle:=img.RotationAngle+0.1;
-
+      oldt:=now;
+      Controller.doUpdate;
     end;
- }                              {
-   for var img:TMolpixImage in Images do
-    begin
 
-      img.Scale:=img.Scale+0.003;
-      img.RotationAngle:=img.RotationAngle+0.1;
-
-    end;
-                                 }
 end;
 
 { TMolpixImage }
