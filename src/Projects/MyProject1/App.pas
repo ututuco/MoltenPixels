@@ -209,7 +209,6 @@ begin
 
     glClearColor(0.1, 0.1, 0.1, 1.0);
     glClear(GL_COLOR_BUFFER_BIT or GL_DEPTH_BUFFER_BIT);
-    FVertexArray.BeginRender;
     for var img:TMolpixImage in Images do img.draw;
     if MilliSecondOf(now-oldt)>5 then
     begin
@@ -257,7 +256,7 @@ begin
   Resizing.InitScaling(FScale);
   Transform := Rotation*Translation*Resizing;
   glUniformMatrix4fv(FUniformTransform, 1, GL_FALSE, @Transform);
-  App.FVertexArray.Render;
+  App.FVertexArray.Render
 end;
 
 procedure TMolpixImage.free;
